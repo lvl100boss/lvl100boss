@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lvl100boss
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java & Python
+- 🌱 I’m currently learning Java, HTML, and CSS
 - 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me? just message me
   
