@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Art Michael Cadiz
-- 🌱 I’m currently learning JavaScript, HTML, and CSS
+- 🌱 I’m currently learning JavaScript, Laravel Framework, And little bit of React Framework.
+- 
   
 
 <!---
