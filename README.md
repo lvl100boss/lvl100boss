@@ -14,28 +14,57 @@
 
 ## 🛠️ Skills
 
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>C++, Python, Java, JavaScript, TypeScript, PHP, SQL</td>
-</tr>
-<tr>
-<td><b>Web</b></td>
-<td>React, Next.js, Tailwind CSS, Shadcn UI</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>Laravel, FastAPI, Firebase (Auth, Firestore)</td>
-</tr>
-<tr>
-<td><b>Mobile</b></td>
-<td>React Native, Expo, FlutterFlow</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>Git, Postman, Vercel</td>
-</tr>
-</table>
+### 🧑‍💻 Languages  
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🌐 Web  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shadcn_UI-111827?style=for-the-badge"/>
+</p>
+
+### 🛠 Backend  
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 📱 Mobile  
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FlutterFlow-4A148C?style=for-the-badge"/>
+</p>
+
+### ⚙️ Tools  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 Experience
+
+### 🧼 TidyUp — Lead Developer  
+**Oct 2024 – May 2025**  
+Built a booking platform for barbershops and salons with features for scheduling, availability, and client management.
+
+### 🎵 Six56 — Web Developer  
+**Nov 2024**  
+Created the official website for a music band to display their profile, events, and media content.
 
 ---
 
