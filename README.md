@@ -39,32 +39,4 @@
 
 ---
 
-## 🧠 Experience
-
-### 🧼 TidyUp — Lead Developer  
-📅 Oct 2024 – May 2025  
-Built a booking platform for barbershops and salons with features for scheduling, availability, and client management.
-
-### 🎵 Six56 — Web Developer  
-📅 Nov 2024  
-Created the official website for a music band to display their profile, events, and media content.
-
----
-
-## 💼 Projects
-
-### 🦍 Gorilla Store  
-<b>Stack:</b> ReactJS, Tailwind CSS, Laravel  
-E-commerce site for product listing and customer orders.
-
-### 💧 Water 7  
-<b>Stack:</b> Next.js, Tailwind CSS, Firebase  
-Web app for tracking and organizing team income.
-
-### 🔐 WhoopsPass  
-<b>Stack:</b> Next.js, Tailwind CSS, Firebase  
-Password manager and generator with secure credential storage.
-
----
-
 <p align="center">Thanks for visiting! ✌️</p>
