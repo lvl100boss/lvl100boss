@@ -1,30 +1,70 @@
-# Art Michael Cadiz
+<h1 align="center">Art Michael Cadiz</h1>
+<p align="center">
+  Full-stack developer · Computer Science student  
+</p>
 
-Full-stack developer and Computer Science student.  
-Builds web and mobile apps using modern tools and frameworks.
+<p align="center">
+  <a href="https://artmc.vercel.app">🌐 Website</a> |
+  <a href="mailto:artmichaelcadiz863@gmail.com">📧 Email</a> |
+  <a href="https://linkedin.com/in/artmc863">💼 LinkedIn</a> |
+  <a href="https://github.com/lvl100boss">💻 GitHub</a>
+</p>
 
-- 🌐 Website: [artmc.vercel.app](https://artmc.vercel.app)  
-- 📧 Email: artmichaelcadiz863@gmail.com  
-- 🧑‍💼 LinkedIn: [linkedin.com/in/artmc863](https://linkedin.com/in/artmc863)  
-- 💻 GitHub: [github.com/lvl100boss](https://github.com/lvl100boss)  
+---
+
+## 🛠️ Skills
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>C++, Python, Java, JavaScript, TypeScript, PHP, SQL</td>
+</tr>
+<tr>
+<td><b>Web</b></td>
+<td>React, Next.js, Tailwind CSS, Shadcn UI</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Laravel, FastAPI, Firebase (Auth, Firestore)</td>
+</tr>
+<tr>
+<td><b>Mobile</b></td>
+<td>React Native, Expo, FlutterFlow</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>Git, Postman, Vercel</td>
+</tr>
+</table>
 
 ---
 
-## Skills
+## 🧠 Experience
 
-**Languages**  
-C++, Python, Java, JavaScript, TypeScript, PHP, SQL
+### 🧼 TidyUp — Lead Developer  
+📅 Oct 2024 – May 2025  
+Built a booking platform for barbershops and salons with features for scheduling, availability, and client management.
 
-**Web Technologies**  
-React, Next.js, Tailwind CSS, Shadcn UI
-
-**Backend Frameworks**  
-Laravel, FastAPI, Firebase (Auth, Firestore)
-
-**Mobile Development**  
-React Native, Expo, FlutterFlow
-
-**Tools**  
-Git, Postman, Vercel
+### 🎵 Six56 — Web Developer  
+📅 Nov 2024  
+Created the official website for a music band to display their profile, events, and media content.
 
 ---
+
+## 💼 Projects
+
+### 🦍 Gorilla Store  
+<b>Stack:</b> ReactJS, Tailwind CSS, Laravel  
+E-commerce site for product listing and customer orders.
+
+### 💧 Water 7  
+<b>Stack:</b> Next.js, Tailwind CSS, Firebase  
+Web app for tracking and organizing team income.
+
+### 🔐 WhoopsPass  
+<b>Stack:</b> Next.js, Tailwind CSS, Firebase  
+Password manager and generator with secure credential storage.
+
+---
+
+<p align="center">Thanks for visiting! ✌️</p>
