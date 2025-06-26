@@ -1,7 +1,7 @@
-# 👨‍💻 Art Michael Cadiz
+# Art Michael Cadiz
 
-**Computer Science student & self-taught full-stack developer**  
-Passionate about building useful web & mobile apps that solve real problems.
+Full-stack developer and Computer Science student.  
+Builds web and mobile apps using modern tools and frameworks.
 
 - 🌐 Website: [artmc.vercel.app](https://artmc.vercel.app)  
 - 📧 Email: artmichaelcadiz863@gmail.com  
@@ -10,21 +10,21 @@ Passionate about building useful web & mobile apps that solve real problems.
 
 ---
 
-## 🔧 Skills
+## Skills
 
-**Languages:**  
+**Languages**  
 C++, Python, Java, JavaScript, TypeScript, PHP, SQL
 
-**Web Technologies:**  
+**Web Technologies**  
 React, Next.js, Tailwind CSS, Shadcn UI
 
-**Backend Frameworks:**  
+**Backend Frameworks**  
 Laravel, FastAPI, Firebase (Auth, Firestore)
 
-**Mobile Development:**  
+**Mobile Development**  
 React Native, Expo, FlutterFlow
 
-**Tools & Platforms:**  
+**Tools**  
 Git, Postman, Vercel
 
 ---
